@@ -1,3 +1,3 @@
 # Patterns 
 
-[Singleton]() <br>
+[Singleton](https://github.com/DaniilOreshenkov/Swift/tree/main/Singleton) <br>
