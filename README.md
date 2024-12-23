@@ -1,2 +1,3 @@
-#Patterns 
+# Patterns 
+
 [Singleton]() <br>
